@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 kita buat apa disini?
+=======
+hallo bunda
+>>>>>>> feature/1
